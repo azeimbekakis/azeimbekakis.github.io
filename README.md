@@ -1,3 +1,2 @@
 # azeimbekakis.github.io
-Hello world
-More words
+GitHub location for my website.
